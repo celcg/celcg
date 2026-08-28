@@ -1,10 +1,5 @@
 # 💫 About Me:
-I am currently in my fifth year of a dual degree in Mathematics and Computer Engineering.
-
-At the moment, I am participating in an Erasmus+ exchange at the University of Lodz, where I am expanding my knowledge in Artificial Intelligence, UI/UX design, Modelling, Cybersecurity, and Web Development.
-
-Alongside my studies, I regularly develop small projects to reinforce new concepts. Currently, I am mainly focused on a larger project, *ML_flight_project*, where I am exploring data analysis and machine learning in depth.
-
+I am a student in Mathematics and Computer Science, in my final year. I am currently exploring new projects on Data Engineering, Data Science and ML.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celtia-castelo-gajino-0768a528a/) [Email](mailto:casteloceltia@gmail.com)
